@@ -1,0 +1,63 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+
+<link rel="stylesheet"
+	href="${pageContext.request.contextPath}/resources/css/homepage.css"
+	type="text/css">
+</head>
+<body>
+<div class="menu_list">
+	<ul>
+	<li>123123123</li>
+	</ul>
+
+<ul id="hd_banner">
+		<li>123</li>
+		<li>123</li>
+		<li>123</li>
+		<li>123</li>
+	</ul>
+</div>
+	<table>
+
+		<tr>
+			<td>
+			<a href="#">브랜드 소개</a>
+			</td>
+				<td>
+					<a href="#">브랜드 소개</a>
+			</td>
+			<td>
+					<a href="#">브랜드 소개</a>
+			</td>
+			<td>
+					<a href="#">브랜드 소개</a>
+			</td>
+			<td>
+					<a href="#">브랜드 소개</a>
+			</td>
+		</tr>
+			<tr>
+			<td>
+				<a href="#">브랜드 소개</a>
+			</td>
+				<td>
+					<a href="#">브랜드 소개</a>
+			</td>
+			<td>
+					<a href="#">브랜드 소개</a>
+			</td>
+			<td>
+					<a href="#">브랜드 소개</a>
+			</td>
+			<td>
+					<a href="#">브랜드 소개</a>
+			</td>
+		</tr>
+		</table>
+</body>
+</html>
