@@ -15,40 +15,37 @@
 </style> 
 <body>
 
-	<div class="header">
+	<div class="header"> 
+
 		<div class="header_in">
 			<div id = "logo">
 			<a href="MainHome.jsp">
 				<img src="${pageContext.request.contextPath}/resources/images/logo.png"/>
 			</a>
 			</div>
-			
-			
-
-		
 				<div class ="menu_list" id="test">
 				<ul id = "menu_main" >
-					<li><a href ="#">리스트1</a></li>
-					<li><a href ="#">리스트2</a></li>
-					<li><a href ="#">리스트3</a></li>
-					<li><a href ="#">리스트4</a></li>
-					<li><a href ="#">리스트5</a></li>
-					<li><a href ="#">리스트6</a></li>
+					<li><a href ="#">브랜드</a></li>
+					<li><a href ="#">상품 목록</a></li>
+					<li><a href ="#">매장</a></li>
+					<li><a href ="./Event.jsp">이벤트/공지사항</a></li>
 				</ul>
 				
-		<!-- 	 	<ul id = "menu_sub">
+		 	 	<ul id = "menu_sub">
 					<li>공지사항</li>
-					<li><a href="https://www.facebook.com/GongCha.Korea"> <img
+					<li id="link_logo"><a href="https://www.facebook.com/GongCha.Korea"> <img
 							src="resources/images/facebook.png"></a> <a
 						href="https://www.instagram.com/gongcha.official/"> <img
 							src="resources/images/instargram.png">
 					</a></li>
 					<li id = "store_logo" >
-					<a href="#"></a>
+					<a href="#">
 						<img src="resources/images/sub_menu_logo1.png">
-						<div>가맹점개설문의010-1111-1111</div>
+	
+						<span><p>&nbsp&nbsp가맹점</p><p>전화번호</p><p>010-1111-1111</p></span>
+					</a>
 					</li>
-				</ul> -->
+				</ul> 
 	<div id="hd_name"><!--슬라이드바  -->
 	</div>
 	
@@ -61,91 +58,59 @@
 	<div id = "hd_submenu">
 	
 		<table>
-		<tr>
+	
+			<tr id="tbl">
+			
+			
 			<td>
-			<a href="#">브랜드 소개</a>
-			</td>
-				<td>
-					<a href="#">브랜드 소개</a>
-			</td>
-			<td>
-					<a href="#">브랜드 소개</a>
+					<a href="./Brand.jsp">브랜드 소개</a>
 			</td>
 			<td>
-					<a href="#">브랜드 소개</a>
+					<a href="./products.jsp">음료</a>
 			</td>
 			<td>
-					<a href="#">브랜드 소개</a>
+					<a href="./store.jsp">매장 찾기</a>
 			</td>
 			<td>
-					<a href="#">브랜드 소개</a>
-			</td>
-		</tr>
-		
-		
-			<tr>
-			<td>
-			<a href="#">브랜드 소개</a>
-			</td>
-				<td>
-					<a href="#">브랜드 소개</a>
-			</td>
-			<td>
-					<a href="#">브랜드 소개</a>
-			</td>
-			<td>
-					<a href="#">브랜드 소개</a>
-			</td>
-			<td>
-					<a href="#">브랜드 소개</a>
-			</td>
-			<td>
-					<a href="#">브랜드 소개</a>
+					<a href="./Event.jsp"">이벤트</a>
 			</td>
 		</tr>
 			
 			
-			<tr>
-			<td>
-			<a href="#">브랜드 소개</a>
-			</td>
-				<td>
-					<a href="#">브랜드 소개</a>
-			</td>
-			<td>
-					<a href="#">브랜드 소개</a>
-			</td>
-			<td>
-					<a href="#">브랜드 소개</a>
-			</td>
-			<td>
-					<a href="#">브랜드 소개</a>
-			</td>
-			<td>
-					<a href="#">브랜드 소개</a>
-			</td>
+		
+		
 		</tr>
 		
 		
-			<tr>
-			<td>
-			<a href="#">브랜드 소개</a>
-			</td>
+			<tr id="tbl">
+			
 				<td>
-					<a href="#">브랜드 소개</a>
+				
 			</td>
 			<td>
-					<a href="#">브랜드 소개</a>
+					<a href="#">빙수</a>
 			</td>
 			<td>
-					<a href="#">브랜드 소개</a>
+
+			</td>
+		<td>
+					<a href="#">공지사항</a>
+			</td>
+			
+		</tr>
+			<tr id="tbl">
+			
+				<td>
+				
 			</td>
 			<td>
-					<a href="#">브랜드 소개</a>
+					<a href="#">디저트</a>
 			</td>
 			<td>
-					<a href="#">브랜드 소개</a>
+			
 			</td>
+		
+			
 		</tr>
 		</table>
 	
