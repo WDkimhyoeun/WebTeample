@@ -1,0 +1,16 @@
+127.0.0.1 - - [02/Sep/2020:15:23:55 +0900] "GET / HTTP/1.1" 404 807
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/MainHome.jsp HTTP/1.1" 200 7814
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/resources/images/banner2.jpg HTTP/1.1" 200 611093
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/resources/images/facebook.png HTTP/1.1" 200 5345
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/resources/images/quick_img_off.png HTTP/1.1" 200 4827
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/resources/images/sub_menu_logo1.png HTTP/1.1" 200 1453
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/resources/res_img/ft_logo.png HTTP/1.1" 200 4128
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/resources/images/eventpicture.jpg HTTP/1.1" 200 54765
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/resources/images/logo.png HTTP/1.1" 200 5234
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/resources/images/banner1.jpg HTTP/1.1" 200 431816
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/resources/images/banner3.jpg HTTP/1.1" 200 410126
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/resources/images/instargram.png HTTP/1.1" 200 9367
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/resources/css/brand.css HTTP/1.1" 200 8291
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/resources/css/homepage2.css HTTP/1.1" 200 6390
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:07 +0900] "GET /Goncha/resources/images/sub_menu_logo2_off.png HTTP/1.1" 200 546
+0:0:0:0:0:0:0:1 - - [02/Sep/2020:15:24:08 +0900] "GET /Goncha/resources/res_img/phone.png HTTP/1.1" 200 797
